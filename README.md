@@ -206,6 +206,6 @@ jupyter notebook farm_to_feed_solution.ipynb
 <p align="center">
   <strong>🏆 7th Place Solution | Farm to Feed Challenge | Zindi</strong><br>
   <a href="https://zindi.africa/users/keystats">@keystats</a> • 
-  <a href="https://github.com/keystats/farm-to-feed-recommendation">GitHub</a> • 
+  <a href="https://github.com/keystats/Farm_to_feed_challenge_7th_place_solution">GitHub</a> • 
   <a href="https://zindi.africa/competitions/farm-to-feed-shopping-basket-recommendation-challenge">Challenge Page</a>
 </p>
