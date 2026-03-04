@@ -86,18 +86,18 @@ seasonal = customer_product_month_median         # "Buy more in December"
 ┌─────────────────────────────────────────────────────────────┐
 │                    5-FOLD ENSEMBLE (20 models)              │
 ├─────────────────────────────────────────────────────────────┤
-│                                                              │
+│                                                             │
 │  Fold 1      Fold 2      Fold 3      Fold 4      Fold 5     │
 │  Seed 42     Seed 101    Seed 202    Seed 303    Seed 404   │
-│                                                              │
-│  ┌──────┐    ┌──────┐    ┌──────┐    ┌──────┐    ┌──────┐  │
-│  │CLF W1│    │CLF W1│    │CLF W1│    │CLF W1│    │CLF W1│  │
-│  │CLF W2│    │CLF W2│    │CLF W2│    │CLF W2│    │CLF W2│  │
-│  │REG W1│    │REG W1│    │REG W1│    │REG W1│    │REG W1│  │
-│  │REG W2│    │REG W2│    │REG W2│    │REG W2│    │REG W2│  │
-│  └──────┘    └──────┘    └──────┘    └──────┘    └──────┘  │
-│                                                              │
-│                    ↓ AVERAGE PREDICTIONS ↓                   │
+│                                                             │
+│  ┌──────┐    ┌──────┐    ┌──────┐    ┌──────┐    ┌──────┐   │
+│  │CLF W1│    │CLF W1│    │CLF W1│    │CLF W1│    │CLF W1│   │
+│  │CLF W2│    │CLF W2│    │CLF W2│    │CLF W2│    │CLF W2│   │
+│  │REG W1│    │REG W1│    │REG W1│    │REG W1│    │REG W1│   │
+│  │REG W2│    │REG W2│    │REG W2│    │REG W2│    │REG W2│   │
+│  └──────┘    └──────┘    └──────┘    └──────┘    └──────┘   │
+│                                                             │
+│                    ↓ AVERAGE PREDICTIONS ↓                  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
